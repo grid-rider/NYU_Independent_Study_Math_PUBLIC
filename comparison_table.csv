@@ -1,0 +1,3 @@
+,Exact GP,Kernel Ridge,RFF,Performer,Exact GP Fit (s),Exact GP Predict (s),KRR Fit (s),KRR Predict (s),RFF Feature Gen (s),RFF Ridge Fit (s),RFF Predict (s),Performer Feature Gen (s),Performer Ridge Fit (s),Performer Predict (s),Exact GP Cond,Kernel Ridge Cond,RFF Cond,Performer Cond
+Dataset 1 (Large Gap),0.040202,0.066064,0.015719,1.9e-05,3.4921,0.2136,0.1315,0.065,0.0628,0.031,0.0013,0.0534,0.0345,0.0012,76567.46478929673,76567.46478929673,1604613.769832095,2500501.0065059382
+Dataset 2 (Small Gap),3.2e-05,0.000202,0.013026,0.0,8.4597,0.39,0.308,0.0972,0.0674,0.0417,0.0012,0.0615,0.0389,0.0013,86482.00123879482,86482.00123879482,1834207.394150759,3751251.009784147
